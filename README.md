@@ -1,6 +1,6 @@
 # 🏗️ Modern Front-end Architectures  🧱 
 
-The purpose of this project is to provide feedback over recent experiments on architectures and patterns applied to front-end development, through the prism of real life applications development.
+The purpose of this project is to provide documentation and feedbacks over modern architectures and patterns implementations applied to front-end development ecosystems.
 
 ## ⚙️ Patterns reviewed in this project
 
