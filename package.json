@@ -1,0 +1,24 @@
+{
+  "name": "modern-front-end-architectures",
+  "version": "1.0.0",
+  "description": "Feedbacks over recent architectures and patterns experiments applied to front-end development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florianlefeuvre/modern-front-end-architecture.git"
+  },
+  "keywords": [
+    "front-end",
+    "architecture",
+    "patterns"
+  ],
+  "author": "Florian Lefeuvre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florianlefeuvre/modern-front-end-architecture/issues"
+  },
+  "homepage": "https://github.com/florianlefeuvre/modern-front-end-architecture#readme"
+}
